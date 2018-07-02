@@ -7,3 +7,4 @@ sfsdfdf
 theshi hebimg -merge
 >>>>>>> mergf
 theshibanben1
+this is banben 2
