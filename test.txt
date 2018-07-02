@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 This is the testd
 hebingfenzhi-master
+=======
+This is the testdfsfsdf
+sfsdfdf
+theshi hebimg -merge
+>>>>>>> merge
